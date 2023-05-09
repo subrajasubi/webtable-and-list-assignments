@@ -46,7 +46,7 @@ public class Window {
 		 * driver.findElement(By.xpath("//button[text()='Open Multiple Windows']")).
 		 * click(); Set<String> windowHandles = driver.getWindowHandles(); for (String
 		 * allWindow : windowHandles) { if(!oldWindow.equals(allWindow)) {
-		 * driver.switchTo().window(allWindow); driver.close(); } }
+		 * driver.switchTo().window(allWindow); driver.close(); } } 
 		 */
 		
 
